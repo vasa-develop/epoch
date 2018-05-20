@@ -1,6 +1,8 @@
 Aeternity Epoch
 ==========
 
+See docs: https://github.com/aeternity/epoch/blob/v0.13.0/docs/release-notes/RELEASE-NOTES-0.13.0.md
+
 A new blockchain for æpps.
 
 Optimized for scalability via smart contracts inside state-channels.
